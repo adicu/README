@@ -1,3 +1,13 @@
 safe: true
 lsi: false
-source: ./README
+source: ./
+
+navigation: 1
+
+sections: [
+	['post', 'FAQ'],
+	['post', 'Course Information'],
+	['post', 'CS/Tech Groups']
+]
+
+baseurl: /README
