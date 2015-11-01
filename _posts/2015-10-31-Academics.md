@@ -1,6 +1,7 @@
 ---
 title: Academics
 layout: post
+permalink: /site/Academics.html
 ---
 
 <h2>Academics</h2>
