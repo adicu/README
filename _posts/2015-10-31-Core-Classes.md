@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer Science Core Classes
+title: Core Classes
 ---
 
 <h2>Computer Science Core Classes</h2>
