@@ -1,7 +1,7 @@
 ---
 title: Academics
 layout: post
-permalink: http://old.adicu.com/site/Academics.html
+permalink: old.adicu.com/site/Academics.html
 ---
 
 <h2>Academics</h2>
