@@ -5,7 +5,7 @@ date: 2015-10-31
 categories: jekyll update
 ---
 
-<h2>Fall 2015</h2>
+<h3>Fall 2015</h3>
 
 <h4>ADI Labs Info Session (Applications released)</h4>
 

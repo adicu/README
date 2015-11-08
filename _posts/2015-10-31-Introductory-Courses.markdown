@@ -5,8 +5,6 @@ date: 2015-10-31
 categories: jekyll update
 ---
 
-<h2> Introductory Course</h2>
-
 If you’re interested in Computer Science, you should take one of these four courses as soon as possible to see if you want to continue with the major. If possible, take them first semester.
 
 <h5>COMS W1002 - Computing in Context <br></h5>

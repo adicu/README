@@ -5,8 +5,6 @@ date: 2015-10-31
 categories: jekyll update
 ---
 
-<h2>Computer Science Core Classes</h2>
-
 While most students end up taking these classes in the first two to three years, it’s totally fine to leave a class until senior year if it isn’t necessary for taking higher level classes. Note that we list “Useful Preparation” instead of “Prerequisites,” in order to convey what knowledge is strictly necessary for the course. Note that these may differ from the official prerequisites.
 
 <h5>COMS W3134 - Data Structures in Java</h5>

@@ -4,7 +4,6 @@ title: "Advanced Courses"
 date: 2015-10-31 
 categories: jekyll update
 ---
-<h2> Advanced Courses </h2>
 
 <h5>CSOR W4231 - Analysis of Algorithms I</h5>
 <b>Common Name: </b>“Algorithms,”  “Algo,” or “Algos” <br>

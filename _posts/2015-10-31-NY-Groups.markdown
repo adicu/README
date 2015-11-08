@@ -1,11 +1,9 @@
 ---
-title: "NY Groups"
+title: "New York Groups"
 layout: post
 date: 2015-10-31 
 categories: jekyll update
 ---
-
-<h2>New York Groups</h2>
 
 <h3>New York Tech Meetup</h3>
 http://www.meetup.com/ny-tech/
