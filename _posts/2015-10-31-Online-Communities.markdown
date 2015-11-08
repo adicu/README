@@ -5,12 +5,12 @@ categories: jekyll update
 ---
 
 <h3>Columbia Computer Science Facebook Group</h3>
-[Facebook]
+[https://www.facebook.com/groups/columbia.cs/]
 
 <h3>Columbia Computer Science Slack</h3>
-[Slack]
+[https://www.slack.adicu.com]
 
-[Facebook]: https://www.facebook.com/groups/columbia.cs/
-[Slack]: https://www.slack.adicu.com
+[https://www.facebook.com/groups/columbia.cs/]: https://www.facebook.com/groups/columbia.cs/
+[https://www.slack.adicu.com]: https://www.slack.adicu.com
 
 

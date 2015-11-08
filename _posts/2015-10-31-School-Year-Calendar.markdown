@@ -15,12 +15,12 @@ Learn more about ADI Labs, a developer group where you work on real projects to 
 
 <h4>HackNY Hackathon</h4>
 
-<i>Saturday, September 26th to Sunday, September 27th. NYU Campus.</i> http://hackny.org 
+<i>Saturday, September 26th to Sunday, September 27th. NYU Campus.</i> [http://hackny.org]
 
 A great first hackathon! Hosted by NYU in the Fall, hackNY is a hackathon that’s accessible and convenient to travel to.
 
 <h4>ADI Startup Career Fair</h4>
-<i>Sunday, October 11th. 2pm - 6pm.</i> http://adicu.com/jobfair 
+<i>Sunday, October 11th. 2pm - 6pm.</i> [http://adicu.com/jobfair]
 
 Interested in getting a job or internship at a startup? Leave your suit at home and join ADI for their annual Startup Career Fair to meet exciting tech startups.
 
@@ -29,3 +29,6 @@ Interested in getting a job or internship at a startup? Leave your suit at home 
 
 Find out about job and internship opportunities for the biggest names in industry! Sign up in advance and make sure to dress for success!
 
+[http://adicu.com/jobfair]: http://adicu.com/jobfair
+
+[http://hackny.org]: http://hackny.org 
