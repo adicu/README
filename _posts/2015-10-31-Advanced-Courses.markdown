@@ -10,21 +10,29 @@ categories: jekyll update
 <b>Useful Preparation:</b> Discrete Math or other proof-based math (like Honors Math), if possible.<br>
 <b>Notes: </b>This class, while very difficult, is extremely useful for internship and job interviews. It covers algorithms from a theoretical perspective, with a focus on proofs.
 
-<h5>COMS 4236 - Introduction to Computational Complexity</h5>
+<h5>COMS W4236 - Introduction to Computational Complexity</h5>
 <b>Common Name:</b> “Computational Complexity”<br>
 <b>Useful Preparation:</b> Discrete Math and Computer Science Theory.<br>
 <b>Notes: </b>This course is only offered fall semesters.
 
-<h5>COMS 4252 - Introduction to Computational Learning Theory</h5>
+<h5>COMS W4241 - Numerical Algorithms and Complexity </h5>
+<b>Common Name: </b>"Numerical Algorithms"
+<b>Notes: </b> This course is currently retired and not scheduled to be offered in the near future. 
+
+<h5>COMS W4252 - Introduction to Computational Learning Theory</h5>
 <b>Common Names: </b>“CLT” or “Learning Theory”<br>
 <b>Useful Preparation: </b>Discrete Math, at a minimum. Computer Science Theory and/or Intro to Computational Complexity may also be recommended. <br>
 <b>Notes: </b>This course is only offered fall semesters.
 
-<h5>COMS 4281 - Introduction to Quantum Computing </h5>
+<h5>COMS W4281 - Introduction to Quantum Computing </h5>
 <b>Common Name: </b> "Quantum Computing" <br>
 <b>Notes: </b> This course is currently retired and not scheduled to be offered in the near future.
 
-<h5>COMS 4771 - Machine Learning</h5>
+<h5>COMS W4701 - Artificial Intelligence </h5>
+<b>Common Name:</b> "AI"
+<b>Notes: </b> This course will not be offered in Spring 2016, but will likely be offered over the summer term and once every school year. 
+
+<h5>COMS W4771 - Machine Learning</h5>
 <b>Common Name: </b>“ML”<br>
 <b>Useful Preparation:</b> Computational Linear Algebra, Data Structures, AP, Probability & Statistics<br>
 <b>Alternatives: </b>You may be able to  substitute STAT W4400 (Statistical Machine Learning) - speak with your advisor.<br>
