@@ -15,7 +15,7 @@ While most students end up taking these classes in the first two to three years,
 <h5>COMS W3137 - Honors Data Structures and Algorithms</h5>
 <b>Common Name: </b>“31 37,” or “Honors Data Structures”<br>
 <b>Useful Preparation: </b>You should take 1004 or 1007 before taking this class, or otherwise be comfortable in Java.<br>
-<b>Notes: </b>Notes: In this class, you learn the basic algorithms and data structures that will help you in internship interviews and industry. Depending on the professor, Honors Data Structures may move slightly faster, cover more advanced data structures and algorithms, and have more extensive homework assignments.
+<b>Notes: </b>Notes: In this class, you learn the basic algorithms and data structures that will help you in internship interviews and industry. Depending on the professor, Honors Data Structures may move slightly faster, cover more advanced data structures and algorithms, and have more extensive homework assignments. This course is only offered in spring semesters.
 
 <h5>COMS W3157 - Advanced Programming</h5>
 <b>Common Name: </b>“AP”<br>

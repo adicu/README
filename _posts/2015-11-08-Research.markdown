@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Undergraduate Research"
+date: 2015-11-08
+categories: jekyll update
+---
+
+Believe it or not, getting a research position on campus isn’t too difficult if you know the proper steps to take. With that said, many students don’t know how to navigate the academic world and enter the seemingly scary world of research. Here, you can find information on not only how to get an actual research position, but also how to go about funding, getting academic credit, and many other tips.
+
+<h4>How do I get a research position?</h4>
+Most undergraduate research assistants simply emailed professors they were interested in working with. There are options beyond just “cold emailing” professors and hoping for the best, but this is definitely one that hasn’t failed many students before. With that said, let’s go over in detail how that process looks like. For reference, you can find a list of professors and their research at [http://engineering.columbia.edu/opportunities#cs] or [http://www.cs.columbia.edu/research/labs]. 
+
+Additionally, as has been mentioned in this guide before, you should add yourself to the CS listservs. Email Remi Moss at remimoss@cs.columbia.edu to have yourself added for possible opportunities. In the beginning of each semester, the CS Department has a research symposium where the current projects going on our presented. A great way to get research is to attend this and follow up with a project you really liked.
+
+<h4>What kind of experience do I need to do research? </h4>
+If you’re looking to do research in the computer science department, you should probably have some experience programming, whether that be from a class you took at Columbia or otherwise. With that said, the more courses you have taken, the easier it will be for you find a professor to do research with. However, if you’re just beginning out in your computer science education, fear not - there are still opportunities for you out there. As long as you’re comfortable with one programming language and genuinely want to do research, you should absolutely go for it. 
+
+With that said, depending on the subfield of computer science research is what classes you should have taken or be taking to participate in research. You can usually find prerequisites in the lab description. If you’re not sure of what these prerequisites are, feel free to ask your advisor or a professor. 
+
+<h4>How much of a time commitment is research?</h4>
+If you choose to do research during the academic year, be aware that most labs ask students to allocate 12-15 hours a week so keep in mind your other commitments before deciding if this is something you want to do. While there are many students that only choose to engage in research during the summer, the positive aspect of working at a lab continuously is the opportunity to get your name published in a paper. 
+
+<h4>How do I reach out to a professor? </h4>
+Contacting a professor for research can be intimidating, especially if you have no idea how to go about doing so. With that said, here are some useful tips for the initial email to a professor:
+<li>It’s very important that you introduce yourself, your school standing, major, and why you’re emailing them right off the bat, so include that in your first paragraph.
+<li>Be as specific and genuine as possible in your reasoning for wanting to work in your lab- professors want people who are interested in their research because those are the people most likely to make a solid contribution. Being too vague won’t really get you anywhere.
+Include a brief commentary on your skills- enough to get them the big picture, but small enough that they won’t get annoyed since you’ll be attaching your resume. 
+<li>Let them know what makes you awesome. Also, offering to learn material on your own shows you’re not only dedicated, but you’re in it for more than just a resume builder. Of course, don’t say you’re willing to do x, y, or z if you’re not. 
+<li>Additionally, don’t lie if you’re not interested in a long-term commitment, but if you are, let them know. Professors love to keep students around for a long period of time.
+Asking to meet with them further shows you’re genuinely interested, so if you’re serious about doing research, make the time to meet with them. Mention that you’d like to meet with them in your email!
+<li>Always attach your resume.
+
+<h4>Can I get academic credit for research? </h4>
+Yes! If the professor is in the Computer Science department, these credits (with a limit of usually 3, but it depends on the track) can be used toward track requirements!
+
+<h4>How do I get my research funded?</h4>
+<li> <h5> BC: Con Edison Summer Internships in Science</h5>
+[http://barnard.edu/cd/students/funding/specialized/coned] <br>
+Applications are accepted early spring and summer;
+$1050 for a semester of research, or $4200 for summer with housing
+Requires a poster/powerpoint presentation at the end of each semester/summer of funding
+Research lab/internship MUST be located in NYC
+
+<li> <h5> BC: Alumnae and Donor Sponsored Internship Grant</h5>
+[http://barnard.edu/cd/students/funding/internship-grants] <br>
+Applications accepted early fall, spring, and summer
+$800 during the semester, or $2000 for summer with housing (if at NYC)
+Research lab/internship can be located anywhere
+
+<h4>Can I use research for work-study?</h4>
+In addition to getting research grants, one way to fund your research is to be paid through work-study. As a student on financial aid, you might be required to hold a work-study job anyway. If this is the case and you’d like for your research to count as work-study instead, absolutely bring this up to your professor advisor! If it’s during the school year, the process is much more straightforward and follows the normal process of getting a work-study job. If you’re looking for a summer position, however, the work-study period doesn’t begin until July 1st. 
+
+Work-study also allows you the opportunity to have your work-study job give you experience and insight on your future goals. This can include web development, database development, IT, or research, as mentioned in the previous section. Not only can this be a useful experience, but these jobs usually pay well, which means having to work fewer hours and having more time to focus on other things.
+
+[http://barnard.edu/cd/students/funding/specialized/coned]: http://barnard.edu/cd/students/funding/specialized/coned 
+
+[http://barnard.edu/cd/students/funding/internship-grants]: http://barnard.edu/cd/students/funding/internship-grants
+
+[http://engineering.columbia.edu/opportunities#cs]: http://engineering.columbia.edu/opportunities#cs
+
+[http://www.cs.columbia.edu/research/labs]: http://www.cs.columbia.edu/research/labs
