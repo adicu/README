@@ -29,9 +29,9 @@ While most students end up taking these classes in the first two to three years,
 <b>Notes: </b>This class is a useful introduction to theoretical computer science, which introduces mathematical techniques and proofs, used in classes like Algorithms and Computer Science Theory.<br>
 
 <h5>COMS W3210 - Scientific Computation</h5>
-<b>Common Name: </b> None
-<b>Useful Preparation:</b> None
-<b>Alternatives: </b> COMS W3251 or SIEO W4150
+<b>Common Name: </b> None<br>
+<b>Useful Preparation:</b> None<br>
+<b>Alternatives: </b> COMS W3251 or SIEO W4150<br>
 <b>Notes: </b> Scientific Computation is unlikely to be offered anytime in the near future.
 
 <h5>COMS W3251 - Computational Linear Algebra </h5>
@@ -40,8 +40,8 @@ While most students end up taking these classes in the first two to three years,
 <b>Notes: </b> This class was cancelled in the fall of 2015 and is not scheduled to be offered in the near future. To fulfill this requirement, MATH V2010, APMA E2101, or APMA E3101 can be taken instead. 
 
 <h5>COMS W3261 - Computer Science Theory</h5>
-<b>Common Name: </b>“CS Theory”
-<b>Useful Preparation:</b> Discrete Math. 
+<b>Common Name: </b>“CS Theory”<br>
+<b>Useful Preparation:</b> Discrete Math. <br>
 <b>Notes: </b>This class covers theoretical computer science, and is useful preparation for Programming Languages and Translators (PLT) and Natural Language Processing (NLP).
 
 <h5>CSEE W3827 - Fundamentals of Computer Systems</h5>

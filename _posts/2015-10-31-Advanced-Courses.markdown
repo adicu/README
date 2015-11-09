@@ -16,7 +16,7 @@ categories: jekyll update
 <b>Notes: </b>This course is only offered fall semesters.
 
 <h5>COMS W4241 - Numerical Algorithms and Complexity </h5>
-<b>Common Name: </b>"Numerical Algorithms"
+<b>Common Name: </b>"Numerical Algorithms"<br>
 <b>Notes: </b> This course is currently retired and not scheduled to be offered in the near future. 
 
 <h5>COMS W4252 - Introduction to Computational Learning Theory</h5>
