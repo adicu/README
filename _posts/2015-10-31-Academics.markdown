@@ -25,15 +25,15 @@ Computer Engineering offers the best of both worlds if you like tinkering around
 It is useful to have chosen a track by Junior year, but it is perfectly acceptable to wait until Senior year to commit. Most students have a general idea by the end of their sophomore year which track they are interested in doing, based on the classes they have taken and enjoyed. Because all CS majors are required to take five technical electives as a part of their major, you can explore taking a wide variety of classes before picking your track. Don’t worry about specializing too early!
 
 <h4>What’s the difference between a track, major, minor, concentration, etc?</h4>
-A major refers to what you will receive your BA or BS in at graduation. SEAS students receive a BS, and CC students receive a BA.
+A <b>major</b> refers to what you will receive your BA or BS in at graduation. SEAS students receive a BS, and CC students receive a BA.
 
-A track is a focus for your CS major. There are six main tracks within the CS major to focus your studies, and you need to fulfill one of them to receive your major. There is overlap between many of the tracks.
+A <b>track</b> is a focus for your CS major. There are six main tracks within the CS major to focus your studies, and you need to fulfill one of them to receive your major. There is overlap between many of the tracks.
 
-A concentration is a reduction of a major that you can receive if you are in Columbia College. You can graduate with just a concentration, or do a concentration in Computer Science with a major or concentration in another field.
+A <b>concentration</b> is a reduction of a major that you can receive if you are in Columbia College. You can graduate with just a concentration, or do a concentration in Computer Science with a major or concentration in another field.
 
-A minor is a set of courses smaller than a major that covers a secondary area of study. Minors are only available to SEAS students.
+A <b>minor </b>is a set of courses smaller than a major that covers a secondary area of study. Minors are only available to SEAS students.
 
-A double major is when you complete the full requirements for two majors in your four years at Columbia. It is difficult (but not impossible!) to do a double major in SEAS, so most double majors are in CC, GS, or Barnard.
+A <b>double major</b> is when you complete the full requirements for two majors in your four years at Columbia. It is difficult (but not impossible!) to do a double major in SEAS, so most double majors are in CC, GS, or Barnard.
 
 <h4>Is it a good idea to load up on CS classes?</h4>
 You should take a course load that you feel you can handle! This will vary by person and will likely change as you take more CS courses. It may be difficult to take Advanced Programming and Data Structures concurrently as a Sophomore but feel reasonable to take three 4000 level CS courses as a senior. As a general rule of thumb, 2 technical classes a semester should be manageable.

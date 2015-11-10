@@ -7,9 +7,9 @@ categories: jekyll update
 
 
 <h4>What’s an internship?</h4>
-An internship is a fixed-term job at a company for potential employees. In tech unlike in many other industries, most internships are paid positions. Many students choose to pursue internships as early as their freshman summer, and some students do internships during the school year as well. Research is popular alternative to an internship in industry, and some students find such opportunities more accessible their freshman summer.
+An internship is a fixed-term job at a company for potential employees. In tech unlike in many other industries, most internships are paid positions. Many students choose to pursue internships as early as their freshman summer, and some students do internships during the school year as well. Research is popular alternative to an internship in industry, and some students find such opportunities more accessible their first-year summer.
 
-It is common not to do an internship during your freshman summer, but doing so is often very rewarding and may help with other opportunities down the line. 
+It is common not to do an internship during your first-year summer, but doing so is often very rewarding and may help with other opportunities down the line. 
 
 <h4>What classes should I take to prepare for a software engineering internship?</h4>
 
