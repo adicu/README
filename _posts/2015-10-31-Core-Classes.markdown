@@ -35,8 +35,8 @@ While most students end up taking these classes in the first two to three years,
 <b>Notes: </b> Scientific Computation is unlikely to be offered anytime in the near future.
 
 <h5>COMS W3251 - Computational Linear Algebra </h5>
-<b>Common Name: </b> "CLA" or "Lin Alg"
-<b>Useful Preparation: </b> Two semesters of Calculus and at least a semester of programming experience. 
+<b>Common Name: </b> "CLA" or "Lin Alg" <br>
+<b>Useful Preparation: </b> Two semesters of Calculus and at least a semester of programming experience. <br>
 <b>Notes: </b> This class was cancelled in the fall of 2015 and is not scheduled to be offered in the near future. To fulfill this requirement, MATH V2010, APMA E2101, or APMA E3101 can be taken instead. 
 
 <h5>COMS W3261 - Computer Science Theory</h5>
