@@ -17,6 +17,8 @@ Most internships do not expect you to know much outside of data structures and a
 
 Depending on the type of company that you’re interning at, different classes may give you more relevant information. You should take the classes that you are interested in and try to get an internship in that area of study.
 
+That being said, companies do expect you to be proficient with data structures and algorithms during the interview process, so you should take Data Structures and Algorithms (COMS W3134/W3137) in preparation for interviews.
+
 <h4>How do I find out about internships other than through LionShare?</h4>
 <li><b>Talk to upperclassmen and professors: </b>Talk to your TAs and professors, as well as upperclassmen that you can find through student groups on campus. For example, go to Cookies and Code (by ADI) and just ask someone!
 
@@ -33,19 +35,20 @@ Depending on the type of company that you’re interning at, different classes m
 <h4>How does the process for applying to an internship work?</h4>
 <ol>
 <li><b>Introduction: </b>Either you apply for the job, are introduced to a recruiter, or do a programming challenge that they post on their website.
-<li><b>Phone/Skype Interview: </b>You hop on a phone call with an engineer, where they’ll ask you questions, some about your experience, and other more technical questions. Often, you will be asked to write code in some shared online editor (like CollabEdit).
+<li><b>Phone/Skype Interview: </b>You hop on a phone call with an engineer, where they’ll ask you questions - some about your experience, and others to test your technical abilities. Often, you will be asked to write code in some shared online editor (like CollabEdit).
 <li><b>More Phone/Skype Interviews: </b>Depending on the company, the number of phone interviews will vary.
 <li><b>In-Person Interviews (sometimes): </b>If the company does in-person interviews, you will be invited to come to their office to meet engineers and other team members. There will be in person coding interviews, as well an opportunity for you to socialize with the team members and learn more about what it’s like to work at the company.
 </ol>
 
 <h4>What are some internship programs freshmen can apply to?</h4>
-<li><b>Google Engineering Practicum: </b>This is Google’s software engineering internship for freshman and sophomores. 
-<li><b>Facebook University: </b>Sometimes called Facebook U, this program is an internship exclusively for freshman that includes a multi-week tutorial in mobile app development.
+<li><b>Google Engineering Practicum: </b>This is Google’s software engineering internship for freshmen and sophomores. 
+<li><b>Facebook University: </b>Sometimes called Facebook U, this program is an internship exclusively for freshmen that includes a multi-week tutorial in mobile app development.
 <li><b>Code2040:</b> A program for Black and Latino engineers that pairs students with jobs in the tech industry.
 <li><b>Microsoft Explore/Foundry Internship: </b>Microsoft also has a program that helps freshmen and sophomores get exposed to software engineering. The Foundry program is based on working on building and shipping a product with other interns in a team that includes developers, designers, and product managers.
 
 <h4>How do I get the attention of a recruiter?</h4>
 <li>Go to on-campus events by companies (they’re always for recruiting)
-<li>Talking to employees is great, but always talk to the recruiters!
-<li>Go to hackathons, and speak to recruiters there, try learning new skills from people around you. 
+<li>Talking to employees is great at career fairs, but always talk to the recruiters!
+<li>Go to hackathons, and speak to recruiters there, try learning new skills from people around you.
+<li>Be creative - use your connections, LinkedIn, Twitter, etc to get in touch!
 
