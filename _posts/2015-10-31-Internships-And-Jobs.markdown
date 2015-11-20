@@ -43,6 +43,9 @@ Depending on the type of company that you’re interning at, different classes m
 <li><b>Facebook University: </b>Sometimes called Facebook U, this program is an internship exclusively for freshman that includes a multi-week tutorial in mobile app development.
 <li><b>Code2040:</b> A program for Black and Latino engineers that pairs students with jobs in the tech industry.
 <li><b>Microsoft Explore/Foundry Internship: </b>Microsoft also has a program that helps freshmen and sophomores get exposed to software engineering. The Foundry program is based on working on building and shipping a product with other interns in a team that includes developers, designers, and product managers.
+<li><b>Qualcomm Early Identification Program:</b> This program offers opportunities in Systems, Hardware, and Software Engineering. 
+<li><b>Hack NY Fellows:</b> This program pairs students with startups to provide a strong mentoring environment.
+
 
 <h4>How do I get the attention of a recruiter?</h4>
 <li>Go to on-campus events by companies (they’re always for recruiting)
