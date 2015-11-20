@@ -17,6 +17,6 @@ categories: jekyll update
 <b>Notes:</b> This is a commonly taken course for CS majors. Depending on your track and advisor, it can replace Machine Learning as a requirement. 
 
 <h5>ECON W4415 - Game Theory</h5>
-<b>Common Name:</b> Game Theory"<br>
+<b>Common Name:</b> "Game Theory"<br>
 <b>Useful Preparation: </b> Calculus I, Intermediate Micro (W3211) and Intermediate Macro (W3213) recommended but only Micro required<br>
 <b>Notes:</b> Many CS-Econ students take this course as an Economics elective. Depending on your track and advisor, it can count as a general technical or track elective.
