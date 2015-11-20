@@ -13,6 +13,6 @@ categories: jekyll update
 
 <h5>STAT W4400 - Statistical Machine Learning</h5>
 <b>Common Name:</b> "Stat ML"<br>
-<b>Useful Preparation: </b> Calculus I and Linear Algebra <br>
+<b>Useful Preparation: </b> Calculus I, Linear Algebra, Probability & Statistics<br>
 <b>Notes:</b> This is a commonly taken course for CS majors. Depending on your track and advisor, it can replace Machine Learning as a requirement. 
 
