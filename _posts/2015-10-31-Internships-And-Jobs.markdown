@@ -44,3 +44,8 @@ Depending on the type of company that you’re interning at, different classes m
 <li><b>Code2040:</b> A program for Black and Latino engineers that pairs students with jobs in the tech industry.
 <li><b>Microsoft Explore/Foundry Internship: </b>Microsoft also has a program that helps freshmen and sophomores get exposed to software engineering. The Foundry program is based on working on building and shipping a product with other interns in a team that includes developers, designers, and product managers.
 
+<h4>How do I get the attention of a recruiter?</h4>
+<li>Go to on-campus events by companies (they’re always for recruiting)
+<li>Talking to employees is great, but always talk to the recruiters!
+<li>Go to hackathons, and speak to recruiters there, try learning new skills from people around you. 
+

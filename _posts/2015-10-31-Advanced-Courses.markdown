@@ -24,6 +24,11 @@ categories: jekyll update
 <b>Useful Preparation: </b>Discrete Math, at a minimum. Computer Science Theory and/or Intro to Computational Complexity may also be recommended. <br>
 <b>Notes: </b>This course is only offered fall semesters.
 
+<h5>COMS 4261 - Intro to Cryptography</h5>
+<b>Common Names: </b> "Crypto"<br>
+<b>Useful Preparation:</b> Computer Science Theory<br>
+<b>Notes:</b> This course is usually only offered in the fall semesters. 
+
 <h5>COMS W4281 - Introduction to Quantum Computing </h5>
 <b>Common Name: </b> "Quantum Computing" <br>
 <b>Notes: </b> This course is currently retired and not scheduled to be offered in the near future.
