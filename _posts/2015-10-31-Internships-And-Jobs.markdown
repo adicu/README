@@ -40,6 +40,12 @@ That being said, companies do expect you to be proficient with data structures a
 <li><b>In-Person Interviews (sometimes): </b>If the company does in-person interviews, you will be invited to come to their office to meet engineers and other team members. There will be in person coding interviews, as well an opportunity for you to socialize with the team members and learn more about what it’s like to work at the company.
 </ol>
 
+<h4>How should I prepare for an interview?</h4>
+<li>Take Data Structures early - it's extremely useful for most interviews.</li>
+<li>Mock interviews are extremely important! It takes time to get used to vocalizing your thoughts while you code, so practicing with friends before the actual interview will be helpful.</li>
+<li>Prepare for the non-technical questions beforehand as well - be sure you can talk about your resume, what areas of CS you're most interested in, and why you want to work at the company you're interviewing for. Also, come up with a few questions to ask your interviewer to show your interest in the company!</li>
+<li>Don't be discouraged if you bomb your first interview. It happens to everyone, and you can only improve from there!</li>
+
 <h4>What are some internship programs freshmen can apply to?</h4>
 <li><b>Google Engineering Practicum: </b>This is Google’s software engineering internship for freshmen and sophomores. 
 <li><b>Facebook University: </b>Sometimes called Facebook U, this program is an internship exclusively for freshmen that includes a multi-week tutorial in mobile app development.
