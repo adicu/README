@@ -46,6 +46,13 @@ That being said, companies do expect you to be proficient with data structures a
 <li>Prepare for the non-technical questions beforehand as well - be sure you can talk about your resume, what areas of CS you're most interested in, and why you want to work at the company you're interviewing for. Also, come up with a few questions to ask your interviewer to show your interest in the company!</li>
 <li>Don't be discouraged if you bomb your first interview. It happens to everyone, and you can only improve from there!</li>
 
+<h4>What kinds of questions are asked in interviews?</h4>
+
+Tech interviews can consist of both non-technical and technical questions. You should do some research on the sorts of questions that come up for a particular company. Some resources for preparation can be found below:
+<li> [ADI Interview Prep Help]
+<li> [Interview Prep Github Repo]
+<li> [Data Structures Workshop Review] 
+
 <h4>What are some internship programs freshmen can apply to?</h4>
 <li><b>Google Engineering Practicum: </b>This is Google’s software engineering internship for freshmen and sophomores. 
 <li><b>Facebook University: </b>Sometimes called Facebook U, this program is an internship exclusively for freshmen that includes a multi-week tutorial in mobile app development.
@@ -61,3 +68,6 @@ That being said, companies do expect you to be proficient with data structures a
 <li>Go to hackathons, and speak to recruiters there, try learning new skills from people around you.
 <li>Be creative - use your connections, LinkedIn, Twitter, etc to get in touch!
 
+[Interview Prep Github Repo]: https://github.com/derekargueta/Interview-Prep
+[ADI Interview Prep Help]: https://github.com/adicu/interview_help
+[Data Structures Workshop Review]: http://www.raymondxu.io/datastructures.pdf
