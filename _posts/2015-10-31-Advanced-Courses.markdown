@@ -17,11 +17,11 @@ categories: jekyll update
 
 <h5>COMS W4241 - Numerical Algorithms and Complexity </h5>
 <b>Common Name: </b>"Numerical Algorithms"<br>
-<b>Notes: </b> This course is currently retired and not scheduled to be offered in the near future. 
+<b>Notes: </b> This course is currently retired and not scheduled to be offered in the near future. For those on the Foundations track, speak to your advisor about a replacement. 
 
 <h5>COMS W4252 - Introduction to Computational Learning Theory</h5>
 <b>Common Names: </b>“CLT” or “Learning Theory”<br>
-<b>Useful Preparation: </b>Discrete Math, at a minimum. Computer Science Theory and/or Intro to Computational Complexity may also be recommended. <br>
+<b>Useful Preparation: </b>Discrete Math, at a minimum. Computer Science Theory and/or Intro to Computational Complexity may also be recommended. Though not required or formally recommended at all, understanding of probability and statistical concepts might be helpful for the latter part of the course.<br>
 <b>Notes: </b>This course is only offered fall semesters.
 
 <h5>COMS W4261 - Intro to Cryptography</h5>
