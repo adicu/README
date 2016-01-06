@@ -59,11 +59,11 @@ You should start with an intro class like 1004 or 1007. If you’ve taken a clas
 This is quite subjective. There are many great professors in the CS department and certain others have less glowing reputations. Check [CULPA] for reviews.
 
 <h4>I’m not in SEAS, can I still take all the same Computer Science classes? </h4>
-Yes! SEAS, CC, BC, and GS students can all take all CS department classes.
+Yes! SEAS, CC, BC, and GS students can all take all CS department classes. The only restriction that applies is if you haven't declared a Computer Science major or concentration. Only then are you restricted from registering for <b>upper level</b> CS courses. Should you need to, however, you can contact [Remi Moss].
 
-[CULPA]:  http://www.culpa.info
+[CULPA]: http://www.culpa.info
 [here]: https://mice.cs.columbia.edu/c/d.php?d=215&
 [here ]: https://mice.cs.columbia.edu/c/d.php?d=214&
 [link]: http://www.cs.columbia.edu/mice/c/d.php?d=190
 [this]: http://bulletin.engineering.columbia.edu/track-1-foundations-cs-track
-
+[Remi Moss]: remimoss@cs.columbia.edu
