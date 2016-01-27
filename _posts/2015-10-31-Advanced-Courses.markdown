@@ -42,3 +42,5 @@ categories: jekyll update
 <b>Useful Preparation:</b> Computational Linear Algebra, Data Structures, AP, Probability & Statistics<br>
 <b>Alternatives: </b>You may be able to  substitute STAT W4400 (Statistical Machine Learning) - speak with your advisor.<br>
 <b>Notes: </b>Machine Learning is a statistical approach to artificial intelligence, and is a rapidly growing field in both academia and industry. Machine learning techniques are used in fields like Computer Vision and Natural Language Processing.
+
+
