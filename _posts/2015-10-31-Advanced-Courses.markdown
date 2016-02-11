@@ -11,7 +11,7 @@ categories: jekyll update
 
 <h5>COMS 4115 - Programming Language & Translators </h5> 
 <b> Common Name: </b> "PLT" <br>
-<b> Useful Preparation: </b> Data Structures, Computer Science Theory, Fundamentals of Computer Systems </b> 
+<b> Useful Preparation: </b> Data Structures, Computer Science Theory, Fundamentals of Computer Systems <br>
 <b> Notes: </b> PLT is a project oriented class, so be prepared to find a group! 
 
 <h5>COMS 4118 - Operating Systems I </h5> 
