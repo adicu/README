@@ -5,6 +5,20 @@ date: 2015-10-31
 categories: jekyll update
 ---
 
+<h5>COMS 4111 - Introduction to Databases </h5> 
+<b> Common Name: </b>"Databases" <br>
+<b> Notes: </b> Databases is a project oriented class, so be prepared to find a group! 
+
+<h5>COMS 4115 - Programming Language & Translators </h5> 
+<b> Common Name: </b> "PLT" <br>
+<b> Useful Preparation: </b> Data Structures, Computer Science Theory, Fundamentals of Computer Systems </b> 
+<b> Notes: </b> PLT is a project oriented class, so be prepared to find a group! 
+
+<h5>COMS 4118 - Operating Systems I </h5> 
+<b> Common Name: </b> "OS" <br>
+<b> Useful Preparation: </b> Advanced Programming <br>
+<b> Notes: </b> Operating Systems is a project oriented class, so be prepared to find a group! 
+
 <h5>CSOR W4231 - Analysis of Algorithms I</h5>
 <b>Common Name: </b>“Algorithms,”  “Algo,” or “Algos” <br>
 <b>Useful Preparation:</b> Discrete Math or other proof-based math (like Honors Math), if possible.<br>
