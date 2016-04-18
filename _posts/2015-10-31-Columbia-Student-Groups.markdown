@@ -15,6 +15,11 @@ ADI, the Application Development Initiative, is the tech and Computer Science cl
 
 WiCS, Women in Computer Science is an organization open to all Columbia students that promotes gender equality, supports new majors, and builds community on campus. They host networking events, site visits, and mentorship events.
 
+<h3>ColorCode</h3> 
+[https://www.facebook.com/CUColorCode/?fref=ts]
+
+ColorCode is an IRC initiative that supports ideas and projects related to entrepreneurship and technology by and for the benefit of underrepresented people of color.
+
 <h3>CDSS</h3>
 [http://cdss.club/]
 
@@ -47,6 +52,7 @@ IEEE, the Institute of Electrical and Electronics Engineers at Columbia Universi
 
 [http://adicu.com]: http://adicu.com
 [http://cuwics.github.io/]: http://cuwics.github.io/
+[https://www.facebook.com/CUColorCode/?fref=ts] https://www.facebook.com/CUColorCode/?fref=ts
 [http://cdss.club/]: http://cdss.club/
 [http://columbia.edu/cu/shpe]: http://columbia.edu/cu/shpe
 [http://www.columbiansbe.org/]: http://www.columbiansbe.org/
