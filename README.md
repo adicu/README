@@ -1,3 +1,8 @@
+# DEPRECATED: Please Use [readme.adicu.com](http://readme.adicu.com)
+
+
+
+
 <h3> Adding new content: </h3>
 
 In the _posts directory, you'll find every post on README.cu in the following format
